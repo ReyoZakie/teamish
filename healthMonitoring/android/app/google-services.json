@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "509295726248",
+    "project_id": "healthmonitoring-21f90",
+    "storage_bucket": "healthmonitoring-21f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509295726248:android:d4b106c01f3c3d1d207c9d",
+        "android_client_info": {
+          "package_name": "com.example.healthmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509295726248-m5gdsgml4fsj30o5al54thdujnpljo3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthmonitoring",
+            "certificate_hash": "2e61c8bcd906c200fe9208391c2ad6e7a45d9d90"
+          }
+        },
+        {
+          "client_id": "509295726248-chs9j18qm0fof3k5crgbqfvo46ou5hka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBv9JjYCuBsEs-Y42lQvEfI3c2W0evuM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509295726248-chs9j18qm0fof3k5crgbqfvo46ou5hka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509295726248:android:764717db9b98bc22207c9d",
+        "android_client_info": {
+          "package_name": "com.sultan.sultan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509295726248-vum5font5hc2bubmgusephvfkcr1k9ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sultan.sultan",
+            "certificate_hash": "2e61c8bcd906c200fe9208391c2ad6e7a45d9d90"
+          }
+        },
+        {
+          "client_id": "509295726248-chs9j18qm0fof3k5crgbqfvo46ou5hka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBv9JjYCuBsEs-Y42lQvEfI3c2W0evuM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509295726248-chs9j18qm0fof3k5crgbqfvo46ou5hka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
